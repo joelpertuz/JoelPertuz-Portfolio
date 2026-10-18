@@ -1,0 +1,14 @@
+
+# Archivos generados por .NET
+bin/
+obj/
+.vs/
+
+# Archivos de usuario y configuración local
+*.user
+*.suo
+appsettings.Development.json
+.env
+
+# Publicaciones locales
+publish/
